@@ -91,8 +91,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
 </div>
 
-###
+<h2 align="center">📊 GitHub Status</h2>
 
-<h3 data-importer="text" align="center">📊 GitHub Status</h3>
+<br>
 
-###
+<div align="center">
+
+<img
+  src="https://github-stats-extended.vercel.app/api?username=marcuss-dev&theme=dark&hide_border=true"
+  height="180"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=marcuss-dev&layout=compact&theme=dark&hide_border=true&langs_count=6"
+  height="180"
+  alt="Principais Linguagens"
+/>
+
+</div>
+
+<br>
