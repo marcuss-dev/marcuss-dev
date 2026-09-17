@@ -8,13 +8,13 @@
 
 ###
 
-<h3 data-importer="text" align="left">☕💻 Sobre mim</h3>
+<h2 data-importer="text" align="left">☕💻 Sobre mim</h2>
 
 ###
 
 <br clear="both">
 
-<img data-importer="image" align="right" height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+<img data-importer="image" align="right" height="190" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h3 data-importer="text" align="right">🌐 Conecte-se comigo:</h3>
+<h2 data-importer="text" align="right">🌐 Conecte-se comigo:</h2>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<h3 data-importer="text" align="center">📚 Linguagens e ferramentas com as quais já trabalhei</h3>
+<h2 data-importer="text" align="center">📚 Linguagens e ferramentas com as quais já trabalhei</h2>
 
 ###
 
